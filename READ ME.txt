@@ -48,6 +48,8 @@
   Ya qué hice todo de forma local, al ejecutar este proyecto en su computadora, vendrá en blanco. Pero puedes crear la información para realizar la prueba. No necesita información
   muy compleja.
 
+  LINK DE DOCUMENTACIÓN: https://documenter.getpostman.com/view/22441762/2s8YsuwCeS
+
 
   Muchas gracias por su tiempo.
 
