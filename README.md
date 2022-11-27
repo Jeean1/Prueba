@@ -1,9 +1,13 @@
 # Prueba
 Una app qué simula un carrito de compras en una farmacia, tiene manejo de usuarios.
 
-
-
-   Ya al tener instalado las librerias
+  Consta de tres pasos.
+  
+   el primer paso:
+   descargar el proyecto
+   Instalar las librerias (npm i )
+   ya al tener instalado las librerias
+   pasamos al segundo paso.
 
    Segundo paso: 
    
@@ -28,7 +32,8 @@ Una app qué simula un carrito de compras en una farmacia, tiene manejo de usuar
    Cabe recalcar qué toda la conexión de la base de datos al node js es de forma Local.
    
    Después crear la base de datos en PostgreSQL, con el mismo nombre de la variable 'DB'.
-
+   
+   Por finalizar, colocamos en marcha el servidor de nodejs con (npm start) y queda activado el servidor.
 
 
   Tercer paso:
